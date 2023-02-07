@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 class MyConstant {
 
   // Genernal
-  static String appName = 'Exchange';
+  static String appName = 'Exchange UBU';
 
 
   // Route

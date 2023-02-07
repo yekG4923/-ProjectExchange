@@ -17,7 +17,7 @@ class CreateAccount extends StatefulWidget {
 class _CreateAccountState extends State<CreateAccount> {
   double? lat, lng;
   final formKey = GlobalKey<FormState>();
-  Profile profile = Profile(email: '', password: '', FirstName: '', LastName: '', Phone: null!, Address: '');
+  //Profile profile = Profile(email: '', password: '', FirstName: '', LastName: '', Phone: null!, Address: '');
 
   @override
   void initState() {
